@@ -1,0 +1,16 @@
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.exe
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.deps.json
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.runtimeconfig.json
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.runtimeconfig.dev.json
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.dll
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\ref\Lab3DecisionMaker.dll
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\net5.0\Lab3DecisionMaker.pdb
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.csproj.AssemblyReference.cache
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.AssemblyInfo.cs
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.dll
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\ref\Lab3DecisionMaker.dll
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.pdb
+C:\Users\sidma\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\net5.0\Lab3DecisionMaker.genruntimeconfig.cache
